@@ -8,4 +8,4 @@ A/D
 
 ## screenshot
 
-![play_screen].https://raw.githubusercontent.com/jasonispw/eggs-and-pans/main/game.png
+![play_screen].(https://raw.githubusercontent.com/jasonispw/eggs-and-pans/main/game.png)
